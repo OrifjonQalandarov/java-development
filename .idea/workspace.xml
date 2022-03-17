@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1a808e25-8828-4e99-a734-bf229bc4b39e" name="Changes" comment="" />
+    <list default="true" id="c27ea427-74e2-4b99-92ec-970df32d3bb1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/matritsa/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tasks/src/com/Tasklog/Ildiz.java" beforeDir="false" afterPath="$PROJECT_DIR$/Tasks/src/com/Tasklog/Ildiz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matritsa/out/production/matritsa/com/matrix/Matritsa2D2.class" beforeDir="false" afterPath="$PROJECT_DIR$/matritsa/out/production/matritsa/com/matrix/Matritsa2D2.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,8 +15,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="26EHK0c09kjuxH4BQB2Q9FmBbc3" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="26V827r4EY1xSkQYe0xV17FLkAv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -20,14 +24,29 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="exercise17" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="exercise17" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="1a808e25-8828-4e99-a734-bf229bc4b39e" name="Changes" comment="" />
-      <created>1646981765704</created>
+      <changelist id="c27ea427-74e2-4b99-92ec-970df32d3bb1" name="Changes" comment="" />
+      <created>1647497307704</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1646981765704</updated>
+      <updated>1647497307704</updated>
     </task>
     <servers />
   </component>
